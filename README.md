@@ -15,5 +15,7 @@ Este proyecto consta de los siguientes elementos de desarrollo de software:
     
 ### Colaboradores:
 [@davidtarrasa](https://github.com/davidtarrasa)
+
 [@JorgeVanco](https://github.com/JorgeVanco)
+
 [@Alberto-cd](https://github.com/Alberto-cd)
